@@ -8,3 +8,9 @@ ASP.NET Core 6, Entity Framework, Vue.js, Sass and Bootstrap.
 Build multi-purpose shops and any commerce solution you can imagine.
 
 [Explore the Smartstore repository](https://github.com/smartstore/Smartstore). If you like what you see, give us a ⭐️ on GitHub.
+
+<br/>
+
+<p align="center">
+	<img src="/profile/3643.png" alt="Smartstore">
+</p>
