@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="smartstore-text.png" alt="Smartstore" width="300">
+	<img src="/profile/smartstore-text.png" alt="Smartstore" width="300">
 </h1>
 <p align="center"><strong>Ready. Sell. Grow.</strong></p>
 
