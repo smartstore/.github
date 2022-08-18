@@ -12,5 +12,5 @@ Build multi-purpose shops and any commerce solution you can imagine.
 <br/>
 
 <p align="center">
-	<img src="/profile/3643.png" alt="Smartstore">
+	<img src="/profile/3199.png" alt="Smartstore">
 </p>
