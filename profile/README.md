@@ -12,5 +12,5 @@ Create multi-store / multi-language / multi-currency shops or build any commerce
 <br/>
 
 <p align="center">
-	<img src="/profile/3199.png" alt="Smartstore">
+	<img src="/profile/smartstore-ready.sell.grow.png" alt="Smartstore">
 </p>
